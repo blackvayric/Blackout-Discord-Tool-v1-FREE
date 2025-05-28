@@ -44,9 +44,6 @@ Write in Python
 - Checks the **validity of Discord tokens**
 - Supports both **user** and **bot** tokens
 
-**Internal Command:**
-- `token_checker()`
-
 ---
 
 ## 💎 Premium Features
