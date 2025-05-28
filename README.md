@@ -6,7 +6,7 @@ Write in Python
 
 ## 📦 Available Versions
 - 🆓 **Free**: Includes basic tools
-- 💎 **Premium (€34.99)**: Full access to all advanced features
+- 💎 **Unlimited (€34.99)**: Full access to all advanced features
 
 ---
 
