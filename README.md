@@ -61,7 +61,7 @@ Write in Python
 
 ---
 
-## ⚠️ Legal Disclaimer
+## ⚠️Disclaimer
 
 Use of this tool is **at your own risk**.  
 The **Blackout Project©** team **takes no responsibility** for any misuse or legal consequences resulting from its use.
