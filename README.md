@@ -6,7 +6,7 @@ Write in Python
 
 ## 📦 Available Versions
 - 🆓 **Free**: Includes basic tools
-- 💎 **Unlimited (€34.99)**: Full access to all advanced features
+- 💎 **Unlimited**: Full access to all advanced features
 
 ---
 
@@ -56,8 +56,6 @@ Write in Python
 - 🎭 **Enhanced Prank Tool**
 - 📊 **Advanced Server Info**
 - ✅ **Improved Token Checker**
-
-💰 **Price:** €34.99
 
 ---
 
