@@ -57,6 +57,8 @@ Write in Python
 - 📊 **Advanced Server Info**
 - ✅ **Improved Token Checker**
 
+For more info go to [Discord](https://discord.gg/k5p2wMad4J) or [Telegram](https://t.me/blackprojtool)
+
 ---
 
 ## ⚠️Disclaimer
